@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  DOCKER_IMAGE: priyanka0709/aws-retail-app1
+  DOCKER_IMAGE: priyanka0709/aws-retail-app2
   DOCKER_TAG: v1.4.0
 
 jobs:
